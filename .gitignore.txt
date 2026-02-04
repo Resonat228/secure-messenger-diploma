@@ -1,15 +1,1 @@
-# временные файлы
-*.log
-*.tmp
-*.aux
-*.out
-*.toc
-~$*
 
-# IDE
-.idea/
-.vscode/
-
-# сборки
-bin/
-obj/
